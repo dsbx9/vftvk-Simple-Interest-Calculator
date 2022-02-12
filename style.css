@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	background-color:black;
+    font-family:arial;
+	color:white
+}
 
+h1 {
+	color:grey;
+	font-family:verdana
+}
 
+/* to center a div set width and margins to auto*/
+.maindiv {
+	background-color:white;
+    color:black;
+	width:300px; /*this worked also*/
+	padding:20px;
+	border-radius:25px;
+	margin:auto
+}
